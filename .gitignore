@@ -1,0 +1,5 @@
+out_frames/
+Output Frames/
+.venv/
+*.pyc
+.DS_Store
