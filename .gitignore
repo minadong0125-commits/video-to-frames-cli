@@ -3,3 +3,4 @@ Output Frames/
 .venv/
 *.pyc
 .DS_Store
+*.MOV
